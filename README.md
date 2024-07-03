@@ -7,36 +7,36 @@ Welcome to the Android Studio Projects repository! This project contains three d
 3. 🔢 Binary to Decimal Converter
    
 
-🕹️ TicTacToe
+## 🕹️ TicTacToe
 -------------------------
-Overview-
+### Overview-
 TicTacToe is a classic game where two players take turns marking the spaces in a 3×3 grid with X and O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
-Features-
-Two-player mode: Play against another human on the same device.
-Simple UI: Easy to use interface with intuitive controls.
-Reset Game: Reset the board to start a new game.
+### Features-
+1. Two-player mode: Play against another human on the same device.
+2. Simple UI: Easy to use interface with intuitive controls.
+3. Reset Game: Reset the board to start a new game.
 
 
 
-➕ Calculator
+## ➕ Calculator
 ------------------------
-Overview-
+### Overview-
 The Calculator app provides basic arithmetic operations such as addition, subtraction, multiplication, and division. It is designed with a simple and user-friendly interface.
 
-Features-
-Basic Operations: Perform addition, subtraction, multiplication, and division.
-Clear Function: Easily clear the current input.
-Responsive Design: Adapts to different screen sizes.
+### Features-
+1. Basic Operations: Perform addition, subtraction, multiplication, and division.
+2. Clear Function: Easily clear the current input.
+3. Responsive Design: Adapts to different screen sizes.
 
 
 
-🔢 Binary to Decimal Converter
+## 🔢 Binary to Decimal Converter
 --------------------------
-Overview-
+### Overview-
 The Binary to Decimal Converter app allows users to convert binary numbers to their decimal equivalents. This is useful for students and professionals working with binary systems.
 
-Features-
-Conversion: Convert binary numbers to decimal.
-Error Handling: Alerts the user if the input is not a valid binary number.
-Simple Interface: Easy to use with a clean design.
+### Features-
+1. Conversion: Convert binary numbers to decimal.
+2. Error Handling: Alerts the user if the input is not a valid binary number.
+3. Simple Interface: Easy to use with a clean design.
